@@ -1,7 +1,7 @@
 {
   "name": "best-samp-query",
   "description": "Simplified Query API for SAMP: Efficient and easy retrieval of information from the server 🔥",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "best-samp-query.js",
   "license": "MIT",
   "author": "daniscript18",
