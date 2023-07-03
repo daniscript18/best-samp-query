@@ -1,0 +1,30 @@
+{
+  "name": "best-samp-query",
+  "description": "Simplified Query API for SAMP: Efficient and easy retrieval of information from the server 🔥",
+  "version": "1.0.0",
+  "main": "best-samp-query.js",
+  "license": "MIT",
+  "author": "daniscript18",
+  "keywords": [
+    "samp",
+    "sa-mp",
+    "fetch",
+    "sa mp",
+    "query",
+    "util",
+    "tool",
+    "nodejs",
+    "samp-query"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniscript18/best-samp-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniscript18/best-samp-query/issues"
+  },
+  "homepage": "https://github.com/daniscript18/best-samp-query",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
