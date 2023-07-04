@@ -23,10 +23,9 @@ const Options = {
     port: 7777,
     timeout: 1000
 };
-Query(Options, function (err, res) {
-    if(error) return console.error(err);
-    else return console.log(res);
-});
+Query(Options)
+    .catch(console.error)
+    .then(console.log);
 ```
 ## 🎁 Sample output
 
